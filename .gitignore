@@ -26,6 +26,9 @@ wheels/
 env/
 venv/
 ENV/
+.venv-1/
+.venv/
+
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -44,5 +47,17 @@ ENV/
 .coverage
 htmlcov/
 
-# Local data files (optional to ignore raw large datasets)
-# data/raw/
+# Project inputs, trained artifacts, and unrelated files not intended for GitHub
+/data/
+/models/
+/.legacy_code_backup.tar.gz
+/.venv-1/
+/plant_doc.zip
+/plant_doc_project.ipynb
+/requirements.txt
+
+# Keep the requested deliverables trackable
+!/mini_project_plant.ipynb
+!/README.md
+!/results/
+
