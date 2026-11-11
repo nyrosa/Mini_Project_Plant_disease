@@ -1,0 +1,10 @@
+Feature Representation,Dimension,Accuracy,Macro F1,Training Time (s)
+Color + Texture,82,0.865,0.7875,0.13
+Color (RGB + HSV),48,0.8417,0.7692,0.09
+HSV Histogram,24,0.8267,0.7559,0.08
+RGB Histogram,24,0.72,0.6328,0.1
+Color + Texture + HOG,8182,0.665,0.5392,40.8
+HOG Gradients,8100,0.5967,0.4792,36.65
+Texture (LBP + GLCM),34,0.5933,0.4521,0.09
+GLCM Haralick,24,0.5383,0.3897,0.1
+LBP Texture,10,0.4533,0.3422,0.11

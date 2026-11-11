@@ -1,0 +1,9 @@
+Metric,SVM,Random Forest
+Accuracy,0.9537,0.9123
+Macro Precision,0.9506,0.9021
+Macro Recall,0.9399,0.9041
+Macro F1,0.9444,0.9025
+Weighted Precision,0.9536,0.9126
+Weighted Recall,0.9537,0.9123
+Weighted F1,0.9535,0.9122
+Training Time (s),0.00,0.00
