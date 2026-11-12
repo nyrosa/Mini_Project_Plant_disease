@@ -1,20 +1,20 @@
 [
     {
         "Model":"Linear SVM (StandardScaler)",
-        "Accuracy (%)":95.69,
-        "Precision (Macro)":0.9586,
-        "Recall (Macro)":0.9434,
-        "F1-Score (Macro)":0.9503,
+        "Accuracy (%)":76.48,
+        "Precision (Macro)":0.7182,
+        "Recall (Macro)":0.7065,
+        "F1-Score (Macro)":0.711,
         "Cross-Entropy Loss":"N\/A (no probabilities)",
-        "Training Time (s)":587.66
+        "Training Time (s)":245.48
     },
     {
         "Model":"Random Forest (200 Trees)",
-        "Accuracy (%)":96.32,
-        "Precision (Macro)":0.9676,
-        "Recall (Macro)":0.9481,
-        "F1-Score (Macro)":0.9568,
-        "Cross-Entropy Loss":0.4062,
-        "Training Time (s)":108.4
+        "Accuracy (%)":81.13,
+        "Precision (Macro)":0.8386,
+        "Recall (Macro)":0.7486,
+        "F1-Score (Macro)":0.7693,
+        "Cross-Entropy Loss":1.0975,
+        "Training Time (s)":56.2
     }
 ]

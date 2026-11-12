@@ -1,0 +1,41 @@
+Model,Checkpoint,Fraction,Progress (%),Split,Loss Value,Loss Metric,Macro F1
+Linear SVM,20% training data,0.2,20.0,Train,0.467897442897764,Multiclass Log Loss,1.0
+Linear SVM,20% training data,0.2,20.0,Validation,1.3495250673713692,Multiclass Log Loss,0.49146191290224583
+Linear SVM,40% training data,0.4,40.0,Train,0.4392645164371294,Multiclass Log Loss,1.0
+Linear SVM,40% training data,0.4,40.0,Validation,1.1833966370632154,Multiclass Log Loss,0.5767281344574161
+Linear SVM,60% training data,0.6,60.0,Train,0.4053993895735872,Multiclass Log Loss,1.0
+Linear SVM,60% training data,0.6,60.0,Validation,1.0936571257647947,Multiclass Log Loss,0.5918912057353031
+Linear SVM,80% training data,0.8,80.0,Train,0.3956979517398813,Multiclass Log Loss,1.0
+Linear SVM,80% training data,0.8,80.0,Validation,1.0431826653676401,Multiclass Log Loss,0.6299272723880461
+Linear SVM,100% training data,1.0,100.0,Train,0.3945127822190445,Multiclass Log Loss,1.0
+Linear SVM,100% training data,1.0,100.0,Validation,1.0024347730037633,Multiclass Log Loss,0.6619981545514061
+Logistic Regression,20% training data,0.2,20.0,Train,0.000913220748770982,Multiclass Log Loss,1.0
+Logistic Regression,20% training data,0.2,20.0,Validation,1.3976972103118896,Multiclass Log Loss,0.5332442300515193
+Logistic Regression,40% training data,0.4,40.0,Train,0.0010416829027235508,Multiclass Log Loss,1.0
+Logistic Regression,40% training data,0.4,40.0,Validation,1.3204169273376465,Multiclass Log Loss,0.5950291504279712
+Logistic Regression,60% training data,0.6,60.0,Train,0.0009735058411024511,Multiclass Log Loss,1.0
+Logistic Regression,60% training data,0.6,60.0,Validation,1.301758050918579,Multiclass Log Loss,0.622911906537419
+Logistic Regression,80% training data,0.8,80.0,Train,0.001260294928215444,Multiclass Log Loss,1.0
+Logistic Regression,80% training data,0.8,80.0,Validation,1.2784284353256226,Multiclass Log Loss,0.6603785963413749
+Logistic Regression,100% training data,1.0,100.0,Train,0.000892261101398617,Multiclass Log Loss,1.0
+Logistic Regression,100% training data,1.0,100.0,Validation,1.3917577266693115,Multiclass Log Loss,0.6797120730441143
+Random Forest,20 trees,0.1,10.0,Train,0.28868242916120646,Multiclass Log Loss,0.9994424075346069
+Random Forest,20 trees,0.1,10.0,Validation,1.7615775488985628,Multiclass Log Loss,0.5912171105365476
+Random Forest,40 trees,0.2,20.0,Train,0.2817165347021201,Multiclass Log Loss,1.0
+Random Forest,40 trees,0.2,20.0,Validation,1.3810518188574779,Multiclass Log Loss,0.636070266415367
+Random Forest,60 trees,0.3,30.0,Train,0.28113248816561154,Multiclass Log Loss,1.0
+Random Forest,60 trees,0.3,30.0,Validation,1.3145372302326837,Multiclass Log Loss,0.6566239366023958
+Random Forest,80 trees,0.4,40.0,Train,0.28008256103145446,Multiclass Log Loss,1.0
+Random Forest,80 trees,0.4,40.0,Validation,1.295542959146673,Multiclass Log Loss,0.6623255207266368
+Random Forest,100 trees,0.5,50.0,Train,0.2788264718580317,Multiclass Log Loss,1.0
+Random Forest,100 trees,0.5,50.0,Validation,1.2578813216896978,Multiclass Log Loss,0.6669457220457287
+Random Forest,120 trees,0.6,60.0,Train,0.27843702748658095,Multiclass Log Loss,1.0
+Random Forest,120 trees,0.6,60.0,Validation,1.2513755355728682,Multiclass Log Loss,0.6816012712444829
+Random Forest,140 trees,0.7,70.0,Train,0.2777196840787229,Multiclass Log Loss,1.0
+Random Forest,140 trees,0.7,70.0,Validation,1.2465146386248134,Multiclass Log Loss,0.6857860708505951
+Random Forest,160 trees,0.8,80.0,Train,0.2778427255176463,Multiclass Log Loss,1.0
+Random Forest,160 trees,0.8,80.0,Validation,1.2461594068267692,Multiclass Log Loss,0.6767759970972325
+Random Forest,180 trees,0.9,90.0,Train,0.2777761050179005,Multiclass Log Loss,1.0
+Random Forest,180 trees,0.9,90.0,Validation,1.2452883355589328,Multiclass Log Loss,0.6834648594006475
+Random Forest,200 trees,1.0,100.0,Train,0.2778459662745702,Multiclass Log Loss,1.0
+Random Forest,200 trees,1.0,100.0,Validation,1.245586448782512,Multiclass Log Loss,0.6782918775946967
